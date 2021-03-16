@@ -63,7 +63,6 @@ class App extends React.Component {
       </div>
     );
   }
-  
 }
 
 const mapStateToProps = createStructuredSelector({
